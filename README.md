@@ -4,15 +4,6 @@
 
 ### 你的私人新能源购车财务与战略顾问
 
-[!\[Vue 3\](https://img.shields.io/badge/Vue-3.4-4FC08D?logo=vue.js\&logoColor=white null)](https://vuejs.org/)
-[!\[Spring Boot\](https://img.shields.io/badge/Spring%20Boot-3.2-6DB33F?logo=spring\&logoColor=white null)](https://spring.io/)
-[!\[FastAPI\](https://img.shields.io/badge/FastAPI-0.109-009688?logo=fastapi\&logoColor=white null)](https://fastapi.tiangolo.com/)
-[!\[LangGraph\](https://img.shields.io/badge/LangGraph-0.0-1C3C3C?logo=langchain\&logoColor=white null)](https://langchain-ai.github.io/langgraph/)
-[!\[Qwen\](https://img.shields.io/badge/Qwen-Plus-FF6A00?logo=alibaba\&logoColor=white null)](https://tongyi.aliyun.com/)
-[!\[Python\](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python\&logoColor=white null)](https://www.python.org/)
-[!\[Java\](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk\&logoColor=white null)](https://openjdk.org/)
-[!\[License\](https://img.shields.io/badge/License-MIT-blue.svg null)](LICENSE)
-
 </div>
 
 ***
