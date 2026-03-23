@@ -1,0 +1,49 @@
+# ========================================
+# 车策 Agent - Python 依赖配置
+# ========================================
+
+# Web 框架
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# LangChain & LangGraph - Agent 编排框架
+langchain
+langchain-core
+langchain-community
+langgraph
+langgraph-checkpoint
+langgraph-checkpoint-redis
+
+# LlamaIndex - RAG 框架
+llama-index
+llama-index-vector-stores-milvus
+llama-index-embeddings-dashscope
+llama-index-llms-dashscope
+
+# 向量数据库
+pymilvus
+
+# Redis 客户端
+redis
+
+# HTTP 客户端
+httpx
+aiohttp
+
+# Tavily 搜索
+tavily-python
+
+# 阿里云百炼 SDK (ChatTongyi 在 langchain-community 中)
+# dashscope
+
+# 工具库
+python-dotenv
+python-multipart
+
+# 日志与监控
+loguru
+
+# 异步支持
+anyio
