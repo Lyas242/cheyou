@@ -175,6 +175,7 @@ async function handleSelectConversation(sessionId) {
     const res = await getConversationHistory(sessionId)
     if (res.code === 200 && res.data) {
       chatStore.setMessages(sessionId, res.data)
+      scrollToBottom(true)
     }
   } catch (error) {
     console.error('获取历史消息失败:', error)
